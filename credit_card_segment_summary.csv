@@ -1,0 +1,4 @@
+Cluster,Age,Annual_Income,Monthly_Spend,Credit_Utilization,Payment_Delays,Transactions_Last_6M,Tenure_Years,Cash_Advance_Amount
+0,51.16,72344.91,1850.72,0.39,1.22,50.43,10.59,253.77
+1,40.07,72586.77,1837.61,0.32,1.47,48.93,4.09,265.66
+2,44.7,70740.1,1665.44,0.35,1.99,52.24,8.48,1003.79
